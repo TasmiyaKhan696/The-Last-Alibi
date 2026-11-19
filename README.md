@@ -3,8 +3,6 @@
 
 **Three worlds. Multiple suspects. One murderer. Can you solve the case?**
 
-[Live Demo](ADD_YOUR_RENDER_URL_HERE) | [GitHub Repository](https://github.com/TasmiyaKhan696/The-Last-Alibi)
-
 ---
 
 ## About the Project
